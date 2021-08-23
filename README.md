@@ -1,3 +1,3 @@
-# CS7015-Deep-Learning
+# CS7015-Deep-Learning Course Projects
 
-code and related documents to be uploaded here ....
+Code and Relevant documents for the course 7015-Deep Learning at IIT Madras.
